@@ -25,31 +25,31 @@ MOMENTUM isn't just another habit tracker—it's a **psychology-driven, AI-power
 
 <div align="center">
 
-### Dashboard & Analytics
+### LOG IN
 ![Dashboard](public/1.jpg)
 
-### AI Coach & Insights
+### CREATE ACCOUNT
 ![AI Coach](public/2.jpg)
 
-### Goal Planning & Tracking
+### DASHBOARD
 ![Goal Planner](public/3.jpg)
 
-### Advanced Analytics
+### HABIT CREATION
 ![Analytics](public/4.jpg)
 
-### AI Algorithm Demonstrations
+### PROGRESS
 ![AI Insights](public/5.jpg)
 
-### Habit Management
+### AI CHAT
 ![Habit Tracking](public/6.jpg)
 
-### Progress Visualization
+### GOAL PLANNER
 ![Progress](public/7.jpg)
 
-### Achievement System
+### ANALYTICS
 ![Achievements](public/8.jpg)
 
-### Personalized Recommendations
+### AI INSIGHTS
 ![Recommendations](public/9.jpg)
 
 </div>
